@@ -93,7 +93,7 @@
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("throw new Error(\"Module parse failed: Unexpected token (23:6)\\nYou may need an appropriate loader to handle this file type.\\n|   render() {\\r\\n|     return (\\r\\n>       <Provider store={store}>\\r\\n|         <AlertProvider template={AlertTemplate} {...alertOtions}>\\r\\n|           <Fragment>\\r\");\n\n//# sourceURL=webpack:///./leadmanager/frontend/src/components/App.js?");
+eval("throw new Error(\"Module parse failed: Unexpected token (32:6)\\nYou may need an appropriate loader to handle this file type.\\n|   render() {\\r\\n|     return (\\r\\n>       <Provider store={store}>\\r\\n|         <AlertProvider template={AlertTemplate} {...alertOptions}>\\r\\n|           <Router>\\r\");\n\n//# sourceURL=webpack:///./leadmanager/frontend/src/components/App.js?");
 
 /***/ }),
 
